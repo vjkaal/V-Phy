@@ -1,0 +1,50 @@
+.clear{
+    clear: both;
+}
+
+body{
+    background: url(../images/background.jpeg);
+    background-size: cover;
+}
+
+#container{
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+
+#header img{
+    width: 200px;
+    height: auto;
+    padding: 30px;
+}
+
+#main{
+    background: lightgreen;
+    opacity: 0.8;
+    padding: 40px;
+    width: 60%;
+    float: left;
+}
+
+#sidebar{
+    width: 30%;
+    background: dodgerblue;
+    opacity: 0.8;
+    padding-left: 50px;
+    padding-right: 0px;
+    float: left;
+    height: 100%;
+}
+
+#footer{
+    background: dimgray;
+    opacity: 0.9;
+    color: white;
+    margin: 10px auto;
+    padding: 5px;
+}
+
+#footer p a{
+    text-decoration: none;
+    color: white;
+}

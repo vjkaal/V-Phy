@@ -1,0 +1,12 @@
+Impulse (J or Imp) is the integral of a force, F, over time interval, t, for which it acts.
+Vector quantity.
+SI unit: N s.
+other systems: kg m/s, lbf s, slug ft/s.
+briefly.
+J = F[avg](t2 − t1)
+also,J = ∫ F dt
+Impulse J produced from time t1 to t2 is defined to be[2]
+
+J = [t1]∫[t2]  F dt
+F=dp/dt
+J=p2-p1=mv2-mv1
